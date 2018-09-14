@@ -32,7 +32,7 @@
 		<logback.version>1.2.3</logback.version>
 		<lombok.version>1.16.18</lombok.version>
 		<slf4j.version>1.7.25</slf4j.version>
-		<spring.version>5.0.0.RELEASE</spring.version>
+        <spring.version>5.0.9.RELEASE</spring.version>
 		<thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
 		<thymeleaf-layout-dialect.version>2.2.1</thymeleaf-layout-dialect.version>
 	</properties>
@@ -99,16 +99,6 @@
             <artifactId>logback-core</artifactId>
             <version>${logback.version}</version>
         </dependency>
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter</artifactId>
-		</dependency>
-
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-test</artifactId>
-			<scope>test</scope>
-		</dependency>
 	</dependencies>
 
 	<!--<build>-->
