@@ -6,5 +6,5 @@ INSERT INTO person(first_name, last_name, date_of_birth, place_of_birth)
 VALUES ('First3', 'Last3', DATE '1996-02-21', 'Cimahi');
 INSERT INTO person(first_name, last_name, date_of_birth, place_of_birth)
 VALUES ('First4', 'Last4', DATE '1978-02-21', 'Bandung');
-
-VALUES ('First4', 'Last4', DATE '1978-02-21', 'Jakarta');
+INSERT INTO person(first_name, last_name, date_of_birth, place_of_birth)
+VALUES ('First5', 'Last5', DATE '1978-02-21', 'Jakarta');
