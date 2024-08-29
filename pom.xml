@@ -30,7 +30,7 @@
 		<h2.version>2.3.232</h2.version>
 		<jackson.version>2.17.2</jackson.version>
 		<logback.version>1.5.7</logback.version>
-		<lombok.version>1.16.18</lombok.version>
+		<lombok.version>1.18.34</lombok.version>
 		<slf4j.version>2.0.16</slf4j.version>
         <spring.version>6.1.12</spring.version>
 		<thymeleaf.version>3.1.2.RELEASE</thymeleaf.version>
